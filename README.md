@@ -19,11 +19,11 @@ Pip is how python downloads, updates and manages python packages and dependencie
 See the documentation here: https://docs.python.org/3/installing/index.html
 ### Running the application
 Navigate to the directory containing the source code. Then run this command to install project dependencies.
-'''
+```
 pip install requirements.txt
-'''
+```
 Once dependencies are installed, you can start the web application with this command.
-'''
+```
 python simplewebserver.py
-'''
+```
 If you look to the console, flask will tell you which address and port you can navigate to the project.
